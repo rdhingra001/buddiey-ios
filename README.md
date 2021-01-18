@@ -1,1 +1,1 @@
-# buddiey-ios
+# Buddiey, for iOS
